@@ -6,3 +6,4 @@
 - 💞️ I’m looking to collaborate on machine translation tasks
 - 📫 y.gao1@massey.ac.nz
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xmcy0011&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
